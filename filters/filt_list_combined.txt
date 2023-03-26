@@ -1,0 +1,13 @@
+../filters/f606w
+../filters/f814w
+../filters/f105w
+../filters/f125w
+../filters/f140w
+../filters/f160w
+../filters/F115W
+../filters/F150W
+../filters/F200W
+../filters/F277W
+../filters/F356W
+../filters/F410M
+../filters/F444W
